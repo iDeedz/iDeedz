@@ -34,7 +34,7 @@ deedz@lab:~$ █
 ```
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=560&lines=I+break+stuff+so+that+others+won't+have+to.;better+my+terminal+than+yours." alt="typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=560&lines=I+break+stuff+so+that+you+won't+have+to.;better+my+terminal+than+yours." alt="typing SVG" />
 </p>
 
 ### currently in the lab
